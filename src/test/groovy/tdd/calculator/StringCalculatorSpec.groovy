@@ -2,7 +2,7 @@ package tdd.calculator
 
 import spock.lang.Specification
 
-class FizzBuzzSpec extends Specification {
+class StringCalculatorSpec extends Specification {
 
     def "start here"() {
         expect:
